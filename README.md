@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/guilhermecunhadacruz">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=guilhermecunhadacruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecunhadacruz&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilhermecunhadacruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecunhadacruz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
